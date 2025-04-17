@@ -9,8 +9,7 @@
 - **Decomposition**: Choose between **Additive** or **Multiplicative** decomposition to analyze data trends, seasonality, and residuals.
 - **Forecasting Methods**:
   - Exponential Smoothing
-  - Moving Average
-  - Linear Regression
+  - Simple Moving Average
 - **Accuracy Metrics**:
   - Root Mean Square Error (RMSE)
   - Mean Absolute Error (MAE)
