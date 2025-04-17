@@ -18,8 +18,6 @@ Original file is located at
 Setting up environment
 """
 
-!pip install streamlit pandas scikit-learn statsmodels matplotlib
-
 """Importing Libraries"""
 
 import streamlit as st
