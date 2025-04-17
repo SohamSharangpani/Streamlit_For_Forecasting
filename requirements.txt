@@ -72,7 +72,6 @@ cymem==2.0.11
 Cython==3.0.12
 dask==2024.12.1
 dask-cuda==25.2.0
-dask-cudf-cu12==25.2.2
 dask-expr==1.1.21
 datascience==0.17.6
 db-dtypes==1.4.2
@@ -265,7 +264,6 @@ lazr.restfulclient==0.14.4
 lazr.uri==1.0.6
 lazy_loader==0.4
 libclang==18.1.1
-libcudf-cu12 @ https://pypi.nvidia.com/libcudf-cu12/libcudf_cu12-25.2.1-py3-none-manylinux_2_28_x86_64.whl
 libcugraph-cu12==25.2.0
 libcuml-cu12==25.2.1
 libcuvs-cu12==25.2.1
@@ -420,7 +418,6 @@ pygit2==1.17.0
 Pygments==2.18.0
 PyGObject==3.42.0
 PyJWT==2.10.1
-pylibcudf-cu12 @ https://pypi.nvidia.com/pylibcudf-cu12/pylibcudf_cu12-25.2.1-cp311-cp311-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl
 pylibcugraph-cu12==25.2.0
 pylibraft-cu12==25.2.0
 pymc==5.21.2
